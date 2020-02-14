@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://bit.ly/2voR4h3);
+    background-color: black;
+}
+body{
+    font-size: xx-large;
+}
+#mail{
+    height:90px;
+    float: left;
+}
+.naming{
+    padding: 100px;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
