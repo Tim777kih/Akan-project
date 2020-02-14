@@ -12,7 +12,7 @@ function getDay(name){
     }
 }
 //arrays
-/*let daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+/*let daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 let maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 let femaleNames = ["Akosua", "Adwoa", "Akua", "yaa", "Afua", "Ama"]*/
 function getGender(){
