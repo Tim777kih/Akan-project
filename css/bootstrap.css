@@ -225,6 +225,7 @@ label {
 button {
   border-radius: 0;
   color: aqua;
+  float: left;
 }
 
 button:focus {

@@ -29,9 +29,9 @@ function getName(){
     var male = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     var female = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     if (getGender() === "male"){
-        document.getElementById("post").innerHTML = ` ${name}! if you were born in Ghana your Akan name would be ${male[getDay(name)]}`;
+        document.getElementById("show").innerHTML = ` ${name}! if you were born in Ghana your Akan name would be ${male[getDay(name)]}`;
     }else if(getGender() === "female"){
-        document.getElementById("post").innerHTML = ` ${name}! if you were born in Ghana your Akan name would be ${female[getDay(name)]}`;
+        document.getElementById("show").innerHTML = ` ${name}! if you were born in Ghana your Akan name would be ${female[getDay(name)]}`;
     }else{
         alert("Select Gender")
     }
