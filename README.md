@@ -10,7 +10,7 @@
  This is a web application that enables the user to know his or her Akan name which is a naming system based on the day born.
  ##### Author info
  I am a training software eng.
- ###### BDD
+ ### BDD
  A form input that enters :
  *Birthdate,Gender
  Output :
@@ -20,7 +20,7 @@
 *input is blank or invalid
 *gender not chosen
 
- ###### Content information
+ ### Content information
  MIT License
 Copyright (c) 2020 Timothy Austin
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -38,3 +38,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+### link to github
