@@ -27,7 +27,7 @@ function getGender(){
     }
 }
 function getName(){
-    var name =  document.getElementById("show").value;
+    var name =  document.getElementById("name").value;
     var male = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     var female = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     if (getGender() === "male"){
