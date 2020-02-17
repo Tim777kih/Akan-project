@@ -41,4 +41,5 @@ SOFTWARE.
 ### link to github
 https://tim777kih.github.io/Akan-project/
 ### Known Bugs 
-Using the formula the Akan name Generated would show undefined for some dates
+Using the formula the Akan name Generated would show undefined for some dates and the gender...
+The error would occur from the formula.Still working on the bugs
