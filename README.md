@@ -39,3 +39,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ### link to github
+https://tim777kih.github.io/Akan-project/
+### Known Bugs 
+Using the formula the Akan name Generated would show undefined for some dates
