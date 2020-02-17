@@ -15,8 +15,10 @@ function getDay(name){
 /*let daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 let maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 let femaleNames = ["Akosua", "Adwoa", "Akua", "yaa", "Afua", "Ama"]*/
+
 function getGender(){
     var radio = document.getElementsByName("gender");
+
     for (var i = 0; i < radio.length; i++){
         if (radio[i].checked){
             var gender = radio[i].value;
@@ -29,9 +31,9 @@ function getName(){
     var male = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     var female = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     if (getGender() === "male"){
-        document.getElementById("show").innerHTML = ` ${name}! if you were born in Ghana your Akan name would be ${male[getDay(name)]}`;
+        document.getElementById("show").innerHTML = `Hey ${name}! if you were born in Ghana your Akan name would be ${male[getDay(name)]}`;
     }else if(getGender() === "female"){
-        document.getElementById("show").innerHTML = ` ${name}! if you were born in Ghana your Akan name would be ${female[getDay(name)]}`;
+        document.getElementById("show").innerHTML = `Hey  ${name}! if you were born in Ghana your Akan name would be ${female[getDay(name)]}`;
     }else{
         alert("Select Gender")
     }
