@@ -20,7 +20,6 @@
 *input is blank or invalid
 *gender not chosen
 
-
  ###### Content information
  MIT License
 Copyright (c) 2020 Timothy Austin
