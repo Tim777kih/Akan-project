@@ -1,5 +1,5 @@
 # AKAN PROJECT
- This is my first portf
+ 
  ## Languages used
  HTML
  CSS
